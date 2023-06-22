@@ -8,7 +8,7 @@ from langchain.vectorstores import Pinecone
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.chains.question_answering import load_qa_chain
-from dotenv import load_dotenv, dotenv_values
+from dotenv import load_dotenv
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 
