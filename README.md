@@ -15,4 +15,4 @@ The steps involved are:
 # Setting up the environment
 The required modules are in the _requirements.txt_ file. 
 
---- You need to have CUDA on your system for these requirements to work properly without any dependency issues ---
+-- You need to have CUDA on your system for these requirements to work properly without any dependency issues --
